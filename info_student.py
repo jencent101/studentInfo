@@ -1,5 +1,9 @@
 from tkinter import *
 
+author = 'Jencent Dizon'
+link = "https://github.com/I-am-Programmer-101"
+print("Author:",author,"\nLink:",link)
+
 MyRootDialog=Tk()
 #Set Tkinter Size And Location
 MyRootDialog.geometry("400x400")
